@@ -7,4 +7,6 @@ class Assets {
   static const twitter = 'assets/twitter.jpeg';
   static const on_switch = 'assets/on_icon.png';
   static const off_switch = 'assets/off_icon.png';
+  static const homepage_screenshot = 'assets/dominik-rosenberger.com.png';
+  static const southafrica_flag = 'assets/sa_flag.png';
 }
