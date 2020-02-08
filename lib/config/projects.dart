@@ -17,6 +17,6 @@ final List<Project> projects = [
       name: 'internship-in-southafrica.de',
       image: Assets.southafrica_flag,
       description:
-          'A website (German) written in Typo3 (PHP) which I created during my internship in Cape Town back in 2007. \n\n It informs students about topics around doing an internship in Cape Town.',
+          'A website (German) written in Typo3 (PHP) which I created during my internship in Cape Town back in 2007. \n\n It is an informal site about doing an internship in Cape Town.',
       link: 'http://www.internship-in-southafrica.de/'),
 ];
